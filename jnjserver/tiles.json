@@ -1,0 +1,26 @@
+[
+  {
+    "name": "",
+    "solid": false
+  },
+  {
+    "name": "dirt",
+    "solid": true
+  },
+  {
+    "name": "grass",
+    "solid": true
+  },
+  {
+    "name": "bricks",
+    "solid": true
+  },
+  {
+    "name": "crate",
+    "solid": true
+  },
+  {
+    "name": "upgrade",
+    "solid": true
+  }
+]
